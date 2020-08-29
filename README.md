@@ -10,10 +10,14 @@ Pewlett Hackard is a large company with thousands of employees who have been wit
 ## Results: 
 -There are 90,398 employees at Pewlett Hackard who will be reaching retirement age in the coming years, 41,380 of which current employees.
 -The top retiring titles of all retirement age employees in order of popularity are pictured below:
+
 ![retiring_titles.png](https://github.com/rmchartman/Pewlett-Hackard-Analysis/blob/master/Resources/retiring_titles.png)
+
 -There are 1,549 employees eligible for the mentorship program. 
 -The titles for those who are eligible for the mentorship program are pictured below:
-![retiring_titles.png](https://github.com/rmchartman/Pewlett-Hackard-Analysis/blob/master/Resources/retiring_titles.png)
+
+![mentorship_titles.png](https://github.com/rmchartman/Pewlett-Hackard-Analysis/blob/master/Resources/mentorship_titles.png)
+
 
 ## Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
