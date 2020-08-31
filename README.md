@@ -20,6 +20,5 @@ Pewlett Hackard is a large company with thousands of employees who have been wit
 
 
 ## Summary: 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Since there are 41,380 current employees who are eligible for upcoming retirement, 41,380 roles will need to be filled. Looking at the roles of the current employees who are eligible for the mentorship program, there are similar roles to what roles will need to be filled, but there are not enough mentors available and not all of the roles are covered. In addition to the expected analysis, a new view was provided to list the number of mentors available in each role to be able to prepare the mentoring program for the roles that will be retiring. However, another view that may be helpful would be to look at the progression of roles (e.g. Engineer to Senior Engineer) to look at how many employees are in roles in which they could be promoted, and then refigure the numbers of new roles to look for more entry level roles for incoming employees from outside the company. 
+
